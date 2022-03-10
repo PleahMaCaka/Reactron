@@ -18,7 +18,7 @@ function App() {
                 <Routes>
                     <Route path="/" element={<Zero/>}/>
                     <Route path="/one" element={<One/>}/>
-                    <Route path="/two" element={<Two/>}/> // TODO
+                    <Route path="/two" element={<Two/>}/>
                 </Routes>
             </header>
         </div>
